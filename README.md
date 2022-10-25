@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Allen-Li-hub/ICS2O-Unit2-05-lighthouse)](https://repl.it/github/Allen-Li-hub/ICS2O-Unit2-05-lighthouse)
 
-This site can be found at: [https://mr-coxall.github.io/ICS2O-Unit2-05-lighthouse/](https://mr-coxall.github.io/ICS2O-Unit2-05-lighthouse/)
+This site can be found at: [https://Allen-Li-hub.github.io/ICS2O-Unit2-05-lighthouse](https://Allen-Li-hub.github.io/ICS2O-Unit2-05-lighthouse)
