@@ -22,7 +22,7 @@ function calculate() {
   const hours = parseInt(
     document.getElementById("number-of-hours-worked").value
   )
-  const rate = parseInt(document.getElementById("Hourly-rate:$").value)
+  const rate = parseInt(document.getElementById("hourly-rate").value)
 
   const take = hours * rate * 0.18
   const wage = hours * rate * (1.0 - 0.18)
